@@ -115,7 +115,7 @@ box-sizing: border-box;
 
 #showcase{
     text-align: left;
-    background-image:url("dept.png");
+    background-image:url("dept.PNG");
     background-position: center right;
     height: 300px;
     margin-bottom: 30px;
